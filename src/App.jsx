@@ -63,7 +63,7 @@ const telemetryData = {
 
 Within the upper, velvet-lined velocity cockpit, the red-haired woman known as 'The Queen' (The Archivist, or 'Brightest Soul' to those who knew her deeper nature), stood before a console that glowed with turquoise and magenta faders and tubes. Her soulful expression was fixed on the porthole, looking out at the cool blue of deep space as it loomed large. She wore that unique, radiating shirt of liquid-silver mithril, constructed from the glowing, static-silver lace that defined her visionary status. 
 
-She turned from the console, leaving the drifter’s quiet port, and descended into the station’s lower, grimy core. She reached the gritty industrial heart of the station, the deep strata visualized in Image 3. The atmosphere immediately shifted to a cyberpunk-noir grit. The air was thick with ozone and 'watermelon bubble gum' pink vapor. 
+She turned from the console, leaving the drifter’s quiet port, and descended into the station’s lower, grimy core. She reached the gritty industrial heart of the station, the deep strata. The atmosphere immediately shifted to a cyberpunk-noir grit. The air was thick with ozone and 'watermelon bubble gum' pink vapor. 
 
 And there, centrally, was Mykyl (The Kindred Spirit, the visionary, the one who touches and changes), observing the forge, not the data.
 
